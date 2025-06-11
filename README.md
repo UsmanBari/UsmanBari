@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Usman Bari (@UsmanBari)
 
-- 🎓 I'm a BS Computer Science student at **FAST-NUCES, Islamabad** (Batch 2023)
+- 🎓 I'm a BS Computer Science student at **FAST-NUCES, Islamabad** (Batch 2027)
 - 🌱 Currently learning **React, C++, and Python**
 - 👀 Interested in **web development, system design, and problem solving**
 - ❌ I don't enjoy recursion much 😅
